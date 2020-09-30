@@ -3,14 +3,6 @@ body {
     width:100%;
 }
 
-.container {
-    padding-right: 2%;
-    padding-left: 2%;
-    margin-left: 2%;
-    margin-right: 2%;
-    text-align: center;
-}
-
 #footer {
     text-align: center;
     padding: 7% 15%;
